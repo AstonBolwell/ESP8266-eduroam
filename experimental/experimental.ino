@@ -6,8 +6,8 @@ extern "C" {
 }
 
 static const char* ssid = "eduroam";
-static const char* username = "id@example.com";
-static const char* password = "password";
+static const char* username = "s3946390@rmit.edu.au";
+static const char* password = "#apmRoss3070@23092020";
 char buff[20];
 String ip;
 
